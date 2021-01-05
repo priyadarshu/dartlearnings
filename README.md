@@ -1,4 +1,4 @@
-# dartlearnings
+# Dart and Flutter Learnings
 
 
 - [Image Class Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
@@ -9,4 +9,32 @@
 
 
 ### To create [App icons](https://appicon.co/)
+
+### Screenshot of the learnings
+
+### Image Class Widget
+![](Image.PNG)
+
+### Center Widget
+
+![](Center.PNG)
+
+### Expanded Widget
+![](Expanded.PNG)
+
+### SafeArea Widget
+
+![](SafeArea.PNG)
+
+### TabBar Widget
+
+![](TabBar.PNG)
+
+### Array of object
+
+![](array%20of%20object.PNG)
+
+### List View Builder
+
+![](listViewBuilder.PNG)
 
