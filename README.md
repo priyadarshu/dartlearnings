@@ -40,3 +40,8 @@ For DartBasics refer to [dartbasics.md file](dartbasics.md)
 
 ![](listViewBuilder.PNG)
 
+### Linear Gradient
+
+![](lineargrad.PNG)
+
+
