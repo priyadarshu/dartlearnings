@@ -2,6 +2,7 @@
 
 For DartBasics refer to [dartbasics.md file](dartbasics.md)
 
+Some of the below links may not work due to change in URL path
 
 - [Image Class Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
 - [Container Class Widget](https://api.flutter.dev/flutter/widgets/Container-class.html)
