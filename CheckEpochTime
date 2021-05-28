@@ -1,0 +1,18 @@
+void main() {
+  var epochtime = DateTime.now().millisecondsSinceEpoch;
+  var testingepochtime=epochtime/1000;
+  var convertHex=testingepochtime.floor(); // this works
+  print(testingepochtime.floor());
+  print(testingepochtime.ceil());
+  print(testingepochtime.round());
+  print(testingepochtime);
+  print(epochtime.toRadixString(16));
+  print(epochtime.toRadixString(2));
+  print(epochtime.toRadixString(10));
+  
+  print('Trying to convert into hex');
+  print(convertHex.toRadixString(16)); // this works
+  print(convertHex.toRadixString(2));
+  print(convertHex.toRadixString(10));
+  
+}
